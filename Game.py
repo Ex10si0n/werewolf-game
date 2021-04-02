@@ -183,7 +183,12 @@ class Game:
 
 
 if __name__ == '__main__':
-    player_name = ['Steve', 'Alston', 'King', 'Jane', 'Stephen']
+    player_name = []
+    for i in range(5):
+        name = input("Enter P%d's Name: " % (i+1))
+        player_name.append(name)
+    # FOR DEBUG PURPOSE
+    # player_name = ['Steve', 'Alston', 'King', 'Jane', 'Stephen']
     wereWolves = Game(player_name=player_name)
     wereWolves.loop()
     print(wereWolves.log)
