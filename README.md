@@ -3,7 +3,7 @@
 # The Werewolf Game
 
 ## Youtube Demo
-[https://www.youtube.com/watch?v=RUlb3AJOruQ](https://www.youtube.com/watch?v=RUlb3AJOruQ)
+[Click Here](https://www.youtube.com/watch?v=RUlb3AJOruQ)
 
 ## Introduction
 
